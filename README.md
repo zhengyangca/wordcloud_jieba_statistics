@@ -5,20 +5,20 @@
 wordcloud_jieba_statistics
 ==========
 
-A little integration of word cloud generator and word frequencies analyzor in Python2(but compatible with python3) for both English and Chinese. 
+A little integration of word cloud generator and word frequencies analyzer in Python2(but compatible with python3) for both English and Chinese. 
 
-Origianl URL: https://github.com/zhengyangca/wordcloud_jieba_statistics
+Original URL: https://github.com/zhengyangca/wordcloud_jieba_statistics
 
 ## Preparation
 Clone or download the code base
 
-install requierd packages:
+install required packages:
 	pip install wordcloud
 	pip install jieba
 
 #### Installation notes
 
-wordcloud may encounter an exception that ask you to install a C comipler if you are using Windows, you can just search <b>Download Microsoft Visual C++ Compiler for Python</b> from google
+wordcloud may encounter an exception that asks you to install a C compiler if you are using Windows, you can just search <b>Download Microsoft Visual C++ Compiler for Python</b> from google
 
 
 ## Usage
