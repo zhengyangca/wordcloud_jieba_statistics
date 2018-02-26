@@ -27,5 +27,5 @@ wordcloud may encounter an exception that asks you to install a C compiler if yo
 
 And wait for the magic happens! 
 
-一个轻量级python应用，整合wordcloud+jieba对中文或英文，或中英文混合文本分块，分析，形成词云。
+一个轻量级python应用，整合wordcloud+jieba对中文或英文，或中英文混合文本分块，统计，形成词云。
 
