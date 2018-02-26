@@ -13,6 +13,7 @@ Original URL: https://github.com/zhengyangca/wordcloud_jieba_statistics
 Clone or download the code base
 
 install required packages:
+
 	pip install wordcloud
 	pip install jieba
 
