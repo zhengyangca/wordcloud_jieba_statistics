@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/amueller/word_cloud.png)]()
 [![licence](http://img.shields.io/badge/licence-MIT-blue.svg?style=flat)]()
 [![DOI](https://zenodo.org/badge/21369/amueller/word_cloud.svg)]()
 
